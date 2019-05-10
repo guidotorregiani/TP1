@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1557511605 source:c:\users\guido\desktop\trabajopractico2\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Empleado.h"
+	"Utn_String.h"
+
+1557508249 c:\users\guido\desktop\trabajopractico2\empleado.h
+
+1557505126 c:\users\guido\desktop\trabajopractico2\utn_string.h
+
+1557510985 source:c:\users\guido\desktop\trabajopractico2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Empleado.h"
+	"Utn_String.h"
+
+1557505126 source:c:\users\guido\desktop\trabajopractico2\utn_string.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"empleado.h"
+	"Utn_String.h"
+
